@@ -2,7 +2,7 @@
 
 ## this is a simple crud operations on posts app using laravel framework 
 
-#Features:
+## Features:
 
 1. normal login and login with google
 2. create , update and soft delete post
