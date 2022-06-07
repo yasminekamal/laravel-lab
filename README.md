@@ -15,7 +15,7 @@ pictures from the app:
 
 1. login page
 
-![login page]([https://github.com/yasminekamal/chat-app/blob/main/images/1.PNG](https://github.com/yasminekamal/posts-crud-operations/blob/main/images/1.PNG))
+![login page](https://github.com/yasminekamal/posts-crud-operations/blob/main/images/1.PNG)
 
 2. all posts page
 
