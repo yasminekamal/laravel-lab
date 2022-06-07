@@ -9,6 +9,8 @@
 3. show all posts
 4. show deleted posts and restore them 
 5. only update and delete your own posts 
+6. Api routes for crud operations and you can test it using any end point like postman
+7. using sanctum to authunticate user acess posts through api
 
 
 pictures from the app:
